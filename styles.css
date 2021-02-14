@@ -1,0 +1,57 @@
+body {
+  background-color: #e7e6e1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f2a154;
+  border-width: 8px;
+  width: 30%;
+  margin: 1px;
+}
+
+h1 {
+  color: #314e52;
+  font: 3em "Trebuchet MS", serif;
+}
+
+h2 {
+  color: #314e52;
+  font: 2.5em "Trebuchet MS", serif;
+}
+
+h3 {
+  color: #314e52;
+  font: 1.5em "Trebuchet MS", serif;
+  margin: 20px;
+}
+
+h4 {
+  color: #314e52;
+  font: 1em "Trebuchet MS", serif;
+}
+h5 {
+  color: #314e52;
+  font: 0.95em "Trebuchet MS", serif;
+}
+
+p {
+  font: .9em "Trebuchet MS", serif;
+}
+
+th {
+  font: 1.1em "Trebuchet MS", serif;
+}
+
+td {
+  font: .9em "Trebuchet MS", serif;
+}
+
+ol {
+  font: .9em "Trebuchet MS", serif;
+}
+
+label, input, textarea {
+  font: 0.9em "Trebuchet MS", serif;
+}
